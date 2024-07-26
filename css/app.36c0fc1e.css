@@ -1,0 +1,1 @@
+.text-tags{display:flex;flex-wrap:nowrap;overflow:hidden}.text-tags--left{justify-content:flex-start}.text-tags--spread{justify-content:space-between}.text-tags--right{justify-content:flex-end}.text-tags__tag{display:flex;justify-content:space-between;align-items:center;white-space:nowrap}
